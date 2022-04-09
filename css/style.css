@@ -2,10 +2,10 @@
 
 Master Stylesheet
 
-	Template:	 Unika - Responsive One Page HTML5 Template
-	Author:		 imransdesign.com
-	URL:		 http://imransdesign.com/
-    Designed By: https://www.behance.net/poljakova
+	Template:	Unika - Responsive One Page HTML5 Template
+	Author:		imransdesign.com
+	URL:		http://imransdesign.com/
+    	Designed By: 	https://www.behance.net/poljakova
 	Version:	1.0	
 
 ---------------------------------------------------------------------------------*/
@@ -74,7 +74,7 @@ p {
 	font: 14px/1.5em "Roboto";
 }
 .navbar-nav > li > a {
-	font-family: "Lato", Helvetica, Arial, sans-serif;
+	font-family: "Lato", "Open Sans", Helvetica, Arial, sans-serif;
 }
 /* End Fonts */
 
